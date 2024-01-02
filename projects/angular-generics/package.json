@@ -1,0 +1,31 @@
+{
+  "name": "@cabral-tec/angular",
+  "version": "1.0.2",
+  "description": "Um repositório abrangente de componentes reutilizáveis e genéricos para o framework Angular. Esta coleção oferece uma variedade de elementos modulares que podem ser facilmente integrados em projetos Angular, otimizando o desenvolvimento ao fornecer soluções flexíveis e consistentes para interfaces de usuário.",
+  "author": "Arthur Cabral Lemos",
+  "license": "ISC",
+  "peerDependencies": {
+    "@angular/common": "^17.0.0",
+    "@angular/core": "^17.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CabralPro/ANGULAR-GENERICS.git"
+  },
+  "keywords": [
+    "angular",
+    "generics",
+    "components"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "bugs": {
+    "url": "https://github.com/CabralPro/ANGULAR-GENERICS/issues"
+  },
+  "homepage": "https://github.com/CabralPro/ANGULAR-GENERICS#readme"
+}
